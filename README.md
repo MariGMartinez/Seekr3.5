@@ -1,2 +1,3 @@
-# Seekr3.5
-Update with Geofencing
+# Seekr
+
+Time to seek your adventure!
